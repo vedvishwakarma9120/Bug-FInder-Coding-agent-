@@ -1,0 +1,9 @@
+// ============================================================
+// PASTE YOUR CODE HERE
+// ============================================================
+// 1. Delete this text and paste your code here.
+// 2. Save the file (Ctrl + S).
+// 3. Run: python agent.py
+// 4. Type the bug you want to fix.
+// 5. After the agent fixes it, copy your corrected code directly from this file!
+// ============================================================

@@ -1,0 +1,33 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Prompts & agent notes
+prompt.md
+prompt*.md
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Temporary / Scratch test directories
+scratch_test_proj*/
+test_project/
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
